@@ -219,8 +219,8 @@
         L.Control.Legend = L.Control.extend({
             onAdd: function (map) {
                 var img = L.DomUtil.create("img");
-                img.src = "assets/img/legend/Legenda5.png";
-                img.style.width = "250px";
+                img.src = "assets/img/legend/Legenda6.png";
+                img.style.width = "300px";
                 return img;
             },
         });
