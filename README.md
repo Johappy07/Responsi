@@ -18,3 +18,5 @@ Tangkapan layar komponen penting produk
 - Landing Page
 - WebGIS
 - Database
+
+Link video :https://youtu.be/uGvK3wwOd6g
